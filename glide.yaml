@@ -1,0 +1,5 @@
+package: github.com/kaakaa/ppt-review/pr-diff
+import:
+- package: golang.org/x/oauth2
+- package: github.com/google/go-github
+  version: master

@@ -1,0 +1,14 @@
+{
+    "pull_request": {
+        "repository": {
+            "owner": "owner",
+            "repo": "repo1"
+        },
+        "number": 1
+    },
+    "dest": {
+        "owner": "kaakaa",
+        "repo": "repo2"
+    },
+    "access_token": "GH_PERSONAL_ACCESS_TOKEN"
+}
